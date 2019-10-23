@@ -8,11 +8,11 @@ Term: Fall 2019
 
 + Team ##
 + Team members
-	+ team member 1
-	+ team member 2
-	+ team member 3
-	+ team member 4
-	+ team member 5
+	+ Chen, Qichao qc2254@columbia.edu
+        + Culver, Ashley alc2221@columbia.edu
+        + Lee, Richard rl3079@columbia.edu
+        + Zhang, Justine yz3420@columbia.edu
+        + Zheng, Kaiyan kz2324@columbia.edu
 
 + Project summary: In this project, we created a classification engine for facial emotion recognition. 
 	
