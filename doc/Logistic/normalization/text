@@ -1,0 +1,5 @@
+with normalization:
+decreases accuracy score of training data, but increases accuracy score of test data
+training data: from 86.1% to 81.6%
+test data: from 50.2% to 54.8%
+less overfitting and more accurate
