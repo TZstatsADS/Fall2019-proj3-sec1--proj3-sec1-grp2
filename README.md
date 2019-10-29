@@ -6,7 +6,7 @@
 
 Term: Fall 2019
 
-+ Team ##
++ Team ## Section1-Group2
 + Team members
 	+ Chen, Qichao qc2254@columbia.edu
         + Culver, Ashley alc2221@columbia.edu
