@@ -16,7 +16,7 @@ Term: Fall 2019
 
 + Project summary: In this project, we created a classification engine for facial emotion recognition. We rewrite our baseline model(KNN) in python and update accuracy by using PCA. Then we tried other models and different feature in order to improve the accuracy. Finally, we decided to use....
 	
-**Contribution statement**: ([default](doc/a_note_on_contributions.md)) Kaiyan Zheng built the baseline model in python and made the presentation. Justine Zhang built the tested different features and models and decided the final model. Qichao Chen worked on feature and KNN in R.  
+**Contribution statement**: ([default](doc/a_note_on_contributions.md)) Kaiyan Zheng built the baseline model in python and made the presentation. Justine Zhang built the tested different features and models and decided the final model. Qichao Chen worked on feature and KNN in R.  Ashley Culver analyzed the models on the basis of time, accuracy, and similarity between the train model accuracy and test model accuracy.
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
