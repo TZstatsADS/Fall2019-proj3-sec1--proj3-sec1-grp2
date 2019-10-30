@@ -2,7 +2,9 @@
 
 ### Doc folder
 
-The doc directory contains the report or presentation files. It can have subfolders.  
+The doc directory contains the report or presentation files. It can have subfolders. 
+
+Subfolder final_model contains the files to be run for both the model selection and applying the model to new test data.
 
 The main_pred file is the file used to run our optimized model on the test data.
 
